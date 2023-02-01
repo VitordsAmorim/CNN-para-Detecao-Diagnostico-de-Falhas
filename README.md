@@ -1,1 +1,1 @@
-# CNN-para-Detec-o-Diagn-stico-de-Falhas
+# CNN-para-Detecao-Diagnostico-de-Falhas
